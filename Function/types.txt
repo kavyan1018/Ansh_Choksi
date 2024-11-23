@@ -1,0 +1,9 @@
+why we use functions in c ?
+--> Functions are used to avoid the repetition of code and make the code more modular.         
+
+types of function in c 
+
+--> No return type No argument      => NR NA
+--> No return type with argument    => NR WA
+--> With Return type no argument    => WR NA
+--> With Return type with argument  => WR WA
