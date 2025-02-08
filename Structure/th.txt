@@ -1,0 +1,26 @@
+what is structure ?
+Structure is a user defined data type in C language which allows you to combine data items of different kinds.
+
+ 
+    we have different data types 
+    int 
+    char 
+    float
+    double
+    long
+
+    but what if we want to store multiple data types in a single variable ?
+    for that we use structure
+
+
+syntax :
+struct structure_name
+{
+    data_type member1;
+    data_type member2;
+    data_type member3;
+    .
+    .
+    .
+    data_type memberN;
+};
