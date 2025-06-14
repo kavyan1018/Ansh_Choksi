@@ -6,7 +6,7 @@
 struct students{
     int Roll_No;
     char Name[30];
-    int Age;
+    int Age;w
 };
 
 int main()

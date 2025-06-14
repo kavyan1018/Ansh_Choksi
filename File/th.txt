@@ -1,0 +1,12 @@
+file handaling in c :
+
+    --> fopen()
+    --> fclose()
+    --> fread()
+    --> fwrite()
+
+
+fopen : it is used to open a file in c.
+fclose : it is used to close a file in c.
+fread : it is used to read data from a file in c.
+fwrite : it is used to write data to a file in c.
