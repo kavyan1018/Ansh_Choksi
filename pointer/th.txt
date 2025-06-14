@@ -1,0 +1,13 @@
+pointer in c
+--> pointers are used to store the address of a variable in c.
+--> pointers are declared using the * operator.
+--> pointers are used to access the value of a variable using its address.
+--> pointers are used to pass variables by reference in c.
+
+
+    methods of pointers in c:
+    --> pointer arithmetic: it is used to perform arithmetic operations on pointers in c.
+    --> pointer to pointer: it is used to store the address of a pointer in c.
+    --> pointer to function: it is used to store the address of a function in c.
+    --> pointer to array: it is used to store the address of an array in c.
+    --> pointer to structure: it is used to store the address of a structure in c.
